@@ -1,0 +1,14 @@
+C:\Users\dumba\desktop\csharp\obj\Debug\net10.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dumba\desktop\csharp\obj\Debug\net10.0\csharp.AssemblyInfoInputs.cache
+C:\Users\dumba\desktop\csharp\obj\Debug\net10.0\csharp.AssemblyInfo.cs
+C:\Users\dumba\desktop\csharp\obj\Debug\net10.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\dumba\desktop\csharp\bin\Debug\net10.0\csharp.exe
+C:\Users\dumba\desktop\csharp\bin\Debug\net10.0\csharp.deps.json
+C:\Users\dumba\desktop\csharp\bin\Debug\net10.0\csharp.runtimeconfig.json
+C:\Users\dumba\desktop\csharp\bin\Debug\net10.0\csharp.dll
+C:\Users\dumba\desktop\csharp\bin\Debug\net10.0\csharp.pdb
+C:\Users\dumba\desktop\csharp\obj\Debug\net10.0\csharp.dll
+C:\Users\dumba\desktop\csharp\obj\Debug\net10.0\refint\csharp.dll
+C:\Users\dumba\desktop\csharp\obj\Debug\net10.0\csharp.pdb
+C:\Users\dumba\desktop\csharp\obj\Debug\net10.0\csharp.genruntimeconfig.cache
+C:\Users\dumba\desktop\csharp\obj\Debug\net10.0\ref\csharp.dll
