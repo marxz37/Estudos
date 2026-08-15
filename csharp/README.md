@@ -1,6 +1,6 @@
 # Estudos de C#
 
-Esta pasta reúne atividades introdutórias e oito listas de exercícios. Os arquivos foram preservados como soluções independentes e receberam nomes padronizados para facilitar a navegação.
+Esta pasta reúne atividades introdutórias, oito listas de exercícios e projetos práticos. Os arquivos foram preservados como soluções independentes e receberam nomes padronizados para facilitar a navegação.
 
 ## Trilhas de conteúdo
 
@@ -15,6 +15,13 @@ Esta pasta reúne atividades introdutórias e oito listas de exercícios. Os arq
 | `lista-06` | Matrizes e processamento bidimensional | 9 |
 | `lista-07` | Métodos, parâmetros, vetores e matrizes | 13 |
 | `lista-08` | Strings, processamento de texto e CSV | 11 |
+| `projetos/jogo-do-rato` | Labirinto aleatório, busca em largura e movimentação no console | 1 projeto |
+
+## Projetos práticos
+
+### Jogo do Rato
+
+O arquivo [`JogoDoRato.cs`](projetos/jogo-do-rato/JogoDoRato.cs) gera um labirinto aleatório, valida se existe um caminho entre a entrada e a saída e acompanha a movimentação de um rato pelo cenário no console.
 
 ## Como executar um exercício
 
